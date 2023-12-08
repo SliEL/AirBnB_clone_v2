@@ -9,7 +9,7 @@ echo '<html>
  <head>
   </head>
   <body>
-    Holberton School
+    Hi world!
   </body>
 </html>' > /data/web_static/releases/test/index.html
 

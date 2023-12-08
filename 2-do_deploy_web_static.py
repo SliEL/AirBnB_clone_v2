@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" distributes arhive to web servers using func do_deploy """
+""" distributes archive to web servers using func do_deploy """
 
 
 from fabric.api import env, put, run, local
